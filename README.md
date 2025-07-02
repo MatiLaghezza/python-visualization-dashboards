@@ -21,14 +21,13 @@ The course focuses on the core libraries and principles behind modern data visua
 ## 🗂️ Repository Structure
 
 python-visualization-dashboards/
-│
-├── guidelines/ → Course structure summary
-├── module_1_pandas_matplotlib/ → Intro to plotting and Pandas
-├── module_2_charts_matplotlib/ → Histograms, pie, box, scatter plots
-├── module_3_advanced_plots/ → Waffle, word clouds, maps, Seaborn
-├── module_4_plotly_dash/ → Plotly + Dash + dashboard structure
-├── module_5_practice_assignment/→ Individual dashboard practice
-└── final_project/ → Capstone-style final dashboard
+- guidelines/ → Course structure summary
+- module_1_pandas_matplotlib/ → Intro to plotting and Pandas
+- module_2_charts_matplotlib/ → Histograms, pie, box, scatter plots
+- module_3_advanced_plots/ → Waffle, word clouds, maps, Seaborn
+- module_4_plotly_dash/ → Plotly + Dash + dashboard structure
+- module_5_practice_assignment/→ Individual dashboard practice
+- final_project/ → Capstone-style final dashboard
 
 
 ---
